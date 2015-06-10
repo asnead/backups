@@ -9,6 +9,9 @@
         <string>/Users/asnead/Atos/Backups/backup.sh</string>
     </array>
     <key>StartCalenderInterval</key>
-    <integer>20</integer>
+    <dict>
+        <key>Hour</key>
+        <integer>12</key>
+    </dict>
 </dict>
 </plist>

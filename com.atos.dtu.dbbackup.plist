@@ -9,9 +9,6 @@
         <string>/Users/asnead/Atos/Backups/backup.sh</string>
     </array>
     <key>StartInterval</key>
-    <dict>
-        <key>Minute</key>
-        <integer>20</integer>
-    </dict>
+    <integer>20</integer>
 </dict>
 </plist>

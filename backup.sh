@@ -15,7 +15,7 @@ for database in `/usr/local/bin/psql -U postgres -lt | awk '{print $1}' | grep -
     printf "done\n";
 done
 cd $backupdir;
-git add -A && git commit -m "new database backup for " + date && git push;
+git add -A && git commit -m "new database backup for ${date}" && git push;
 echo `date`;
 echo;
 exit 0;

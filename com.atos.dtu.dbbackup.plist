@@ -8,10 +8,10 @@
     <array>
         <string>/Users/asnead/Atos/Backups/backup.sh</string>
     </array>
-    <key>StartCalenderInterval</key>
+    <key>StartInterval</key>
     <dict>
         <key>Minute</key>
-        <integer>1</key>
+        <integer>20</integer>
     </dict>
 </dict>
 </plist>
